@@ -1,0 +1,20 @@
+{
+  "name": "@kse09/ajs",
+  "version": "1.0.0",
+  "description": "**Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.",
+  "homepage": "https://github.com/Kse09/ajs#readme",
+  "bugs": {
+    "url": "https://github.com/Kse09/ajs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kse09/ajs.git"
+  },
+  "license": "ISC",
+  "author": "Kse09",
+  "type": "commonjs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
